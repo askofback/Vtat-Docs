@@ -19,7 +19,7 @@ Vtat은 간단한 JSON을 사용한 ACL 시스템입니다.
 ## 疎開
 Vtatは簡単なJSONを使ったACLシステムです。
 ## 始めること
-### ジャバスクリプト
+### Javascript
 [読み](https://github.com/askofback/Vtat-Docs/blob/main/japanese/javascript.md)
-### パイソン
+### Python
 [読み](https://github.com/askofback/Vtat-Docs/blob/main/japanese/python.md)
