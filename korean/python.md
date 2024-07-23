@@ -77,5 +77,5 @@ name칸의 이름은 무조건 `group:(모임 이름)` 또는 `user:(유저 이�
 ### (베타) objectIsInAnyGroup(json_array, name)
 `name`이라는 개체가 어느 모임에나 있다면 참 아니라면 거짓을 반환합니다.
 단 제대로 작동하지 않을 수 있으며 `group:XX`는 카운트 되지 않을 수 있습니다.
-### (베타) getSubgroups(json_array, group);
+### (베타) getSubgroups(json_array, group)
 `group`이라는 모임속 하위 모임들을 반환합니다.
