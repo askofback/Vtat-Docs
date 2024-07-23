@@ -8,7 +8,7 @@ Vtat.js 버전 0.0.1 베타
 ## JSON 예제
 ```json
 {
-"모임": {
+"groups": {
   "학교": [
     "group:남매",
     "user:길동"
